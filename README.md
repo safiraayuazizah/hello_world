@@ -1,4 +1,7 @@
 # hello_world
+![gambar 1](images/praktikum.jpg)
+![gambar 2](images/tugas.jpg)
+
 
 A new Flutter project.
 
